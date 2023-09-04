@@ -4,7 +4,7 @@
 Dev Jr com proeficiencia em python,html,css, e javascript <br/>
 </p>
 
-## 🚀 Sobre Mim
+##                                                                                                                         🚀 Sobre Mim
 
 "Olá, sou João Pedro Liberato, um entusiasta da tecnologia e desenvolvedor de software. Com 2 anos de experiência na área de supore, estou sempre em busca de novos desafios e oportunidades de aprendizado. Minhas paixões incluem programar, design e futebol.
 Sou apaixonado por criar soluções inovadoras e contribuir para projetos de código aberto. Acredito no poder da comunidade de desenvolvedores para impulsionar a inovação e estou animado para colaborar com outros desenvolvedores e compartilhar meu conhecimento.
